@@ -1,0 +1,1 @@
+# mplementa-o-de-query-em-prorjeto
